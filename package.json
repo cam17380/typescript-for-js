@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cam17380/typescript-for-js/issues"
   },
-  "homepage": "https://github.com/cam17380/typescript-for-js#readme"
+  "homepage": "https://github.com/cam17380/typescript-for-js#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
